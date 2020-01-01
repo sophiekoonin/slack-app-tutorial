@@ -1,7 +1,8 @@
 # Slack App tutorial 
----
 
-A bare-bones base for the (currently WIP) Slack App tutorial on [localghost.dev](https://localghost.dev).
+Sample code for the (currently WIP) Slack App tutorial on localghost.dev.
+
+Check out the branch base for a quick-start project.
 
 Included packages:
 * `express` - to create a web server
